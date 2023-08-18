@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/GoldRong/jbig-android.svg)](https://jitpack.io/#GoldRong/jbig-android)
+
 # jbig-android
 This is a [JBIG](https://en.wikipedia.org/wiki/JBIG) codec toolkit in Android platform.
 
